@@ -97,21 +97,8 @@ the heart was separated into:
 - left atrium,
 - aortic structures.
 
-### Right Ventricle Segmentation
 
-![Right Ventricle](images/right_ventricle.png)
-
-### Right Atrium Segmentation
-
-![Right Atrium](images/right_atrium.png)
-
-### Left Ventricle Segmentation
-
-![Left Ventricle](images/left_ventricle.png)
-
-### Left Atrium Segmentation
-
-![Left Atrium](images/left_atrium.png)
+![Left Atrium](images/Picture15.png)
 
 ---
 
@@ -119,7 +106,7 @@ the heart was separated into:
 
 All segmented structures were combined into a complete anatomical heart model.
 
-![Segmented Heart](images/final_heart_model.png)
+![Segmented Heart](images/Picture16.png)
 
 ---
 
@@ -135,11 +122,11 @@ The `Smooth` function was applied to reduce surface irregularities and improve g
 
 ### Before Smoothing
 
-![Before Smooth](images/before_smooth.png)
+![Before Smooth](images/Picture17.png)
 
 ### After Smoothing
 
-![After Smooth](images/after_smooth.png)
+![After Smooth](images/Picture18.png)
 
 ---
 
@@ -147,13 +134,10 @@ The `Smooth` function was applied to reduce surface irregularities and improve g
 
 The `Wrap` function generated a cleaner outer surface and improved edge continuity.
 
-### Before Wrap
-
-![Before Wrap](images/before_wrap.png)
 
 ### After Wrap
 
-![After Wrap](images/after_wrap.png)
+![After Wrap](images/Picture20.png)
 
 ---
 
@@ -161,7 +145,7 @@ The `Wrap` function generated a cleaner outer surface and improved edge continui
 
 Local smoothing was used to manually refine selected regions of the mesh.
 
-![Local Smoothing](images/local_smoothing.png)
+![Local Smoothing](images/Picture21.png)
 
 ---
 
@@ -169,15 +153,9 @@ Local smoothing was used to manually refine selected regions of the mesh.
 
 The `Hollow` operation was used to create an empty internal structure simulating blood flow space inside the heart.
 
-![Hollow Model](images/hollow_model.png)
-
----
-
-# Cross-Section Visualization
-
 The `Trim` function was used to cut the model and expose internal anatomical structures.
 
-![Trim Operation](images/trim_operation.png)
+![Trim Operation](images/Picture22.png)
 
 ---
 
