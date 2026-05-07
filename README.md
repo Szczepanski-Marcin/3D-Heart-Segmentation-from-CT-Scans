@@ -98,7 +98,7 @@ the heart was separated into:
 - aortic structures.
 
 
-![Left Atrium](images/Picture15.png)
+![Left Atrium](images/Picture6.png)
 
 ---
 
@@ -106,7 +106,7 @@ the heart was separated into:
 
 All segmented structures were combined into a complete anatomical heart model.
 
-![Segmented Heart](images/Picture16.png)
+![Segmented Heart](images/Picture7.png)
 
 ---
 
@@ -122,11 +122,11 @@ The `Smooth` function was applied to reduce surface irregularities and improve g
 
 ### Before Smoothing
 
-![Before Smooth](images/Picture17.png)
+![Before Smooth](images/Picture8.png)
 
 ### After Smoothing
 
-![After Smooth](images/Picture18.png)
+![After Smooth](images/Picture9.png)
 
 ---
 
@@ -137,7 +137,7 @@ The `Wrap` function generated a cleaner outer surface and improved edge continui
 
 ### After Wrap
 
-![After Wrap](images/Picture20.png)
+![After Wrap](images/Picture10.png)
 
 ---
 
@@ -145,7 +145,7 @@ The `Wrap` function generated a cleaner outer surface and improved edge continui
 
 Local smoothing was used to manually refine selected regions of the mesh.
 
-![Local Smoothing](images/Picture21.png)
+![Local Smoothing](images/Picture11.png)
 
 ---
 
@@ -155,7 +155,7 @@ The `Hollow` operation was used to create an empty internal structure simulating
 
 The `Trim` function was used to cut the model and expose internal anatomical structures.
 
-![Trim Operation](images/Picture22.png)
+![Trim Operation](images/Picture12.png)
 
 ---
 
@@ -167,7 +167,7 @@ The final model:
 - has optimized mesh topology,
 - can be used for visualization and educational purposes.
 
-![Final Heart Model](images/Picture23.png)
+![Final Heart Model](images/Picture13.png)
 
 ---
 
