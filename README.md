@@ -167,7 +167,7 @@ The final model:
 - has optimized mesh topology,
 - can be used for visualization and educational purposes.
 
-![Final Heart Model](images/final_result.png)
+![Final Heart Model](images/Picture23.png)
 
 ---
 
