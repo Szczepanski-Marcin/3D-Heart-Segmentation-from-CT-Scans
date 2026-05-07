@@ -41,7 +41,7 @@ Project scope:
 
 The first step consisted of loading CT scan data into Mimics Medical.
 
-![Import CT Data](images/import_ct.png)
+![Import CT Data](images/Picture1.png)
 
 ---
 
@@ -55,7 +55,7 @@ Parameters:
 
 This operation generated the initial segmentation mask.
 
-![Thresholding](images/thresholding.png)
+![Thresholding](images/Picture2.png)
 
 ---
 
@@ -63,7 +63,7 @@ This operation generated the initial segmentation mask.
 
 The `Region Growing` tool was used to isolate the heart from surrounding anatomical structures such as the spine and neighboring tissues.
 
-![Region Growing](images/region_growing.png)
+![Region Growing](images/Picture3.png)
 
 ---
 
@@ -71,7 +71,7 @@ The `Region Growing` tool was used to isolate the heart from surrounding anatomi
 
 After segmentation, the first 3D heart model was generated.
 
-![Initial 3D Model](images/initial_3d_model.png)
+![Initial 3D Model](images/Picture4.png)
 
 ---
 
@@ -79,7 +79,7 @@ After segmentation, the first 3D heart model was generated.
 
 Unwanted blood vessels and surrounding structures were removed using the `Edit Mask` tool.
 
-![Mask Editing](images/edit_mask.png)
+![Mask Editing](images/Picture5.png)
 
 ---
 
