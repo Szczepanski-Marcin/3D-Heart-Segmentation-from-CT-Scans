@@ -98,7 +98,7 @@ the heart was separated into:
 - aortic structures.
 
 
-![Left Atrium](images/Picture6.png)
+![Chamber Separation](images/Picture6.png)
 
 ---
 
