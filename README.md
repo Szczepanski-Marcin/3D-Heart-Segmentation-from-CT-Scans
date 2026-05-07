@@ -97,21 +97,8 @@ the heart was separated into:
 - left atrium,
 - aortic structures.
 
-### Right Ventricle Segmentation
 
-![Right Ventricle](images/right_ventricle.png)
-
-### Right Atrium Segmentation
-
-![Right Atrium](images/right_atrium.png)
-
-### Left Ventricle Segmentation
-
-![Left Ventricle](images/left_ventricle.png)
-
-### Left Atrium Segmentation
-
-![Left Atrium](images/left_atrium.png)
+![Left Atrium](images/Picture15.png)
 
 ---
 
@@ -119,7 +106,7 @@ the heart was separated into:
 
 All segmented structures were combined into a complete anatomical heart model.
 
-![Segmented Heart](images/final_heart_model.png)
+![Segmented Heart](images/Picture16.png)
 
 ---
 
