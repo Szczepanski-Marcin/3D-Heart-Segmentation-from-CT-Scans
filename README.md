@@ -206,6 +206,6 @@ The generated model should be considered an approximation and not a clinically v
 
 # Author
 
-[Your Name]
+Marcin Szczepnskia
 
 Biomedical Engineering / 3D Medical Modeling / Medical Imaging
