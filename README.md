@@ -9,7 +9,7 @@ The workflow includes:
 - segmentation of cardiac chambers and vessels,
 - 3D reconstruction,
 - mesh optimization and smoothing,
-- creation of a hollow heart model for internal visualization.
+- creation of a hollow heart model for internal visualization.  
 
 The project was completed using medical image segmentation and mesh-processing techniques in Mimics Medical and 3-matic Medical.
 
